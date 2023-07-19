@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elexion
-- 👀 I’m interested in Python, Django, Selenium and Swift.
-- 🌱 I’m currently learning Django.
+- 👀 I’m interested in Swift and SwiftUI.
+- 🌱 I’m currently learning everything Swift.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
